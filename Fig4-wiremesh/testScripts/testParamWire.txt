@@ -1,0 +1,3 @@
+MaleTorso.obj MaleTorso_target.obj Options.txt MaleTorso_out.obj
+MaleTorso.obj MaleTorso_target.obj OptionsAA.txt MaleTorso_out.obj
+MaleTorso.obj MaleTorso_target.obj OptionsDR.txt MaleTorso_out.obj

@@ -1,0 +1,11 @@
+#!/bin/bash
+mkdir result
+file="./testParamWire.txt"
+
+while IFS= read -r line
+do
+
+./WireMeshOpt $line
+done<"$file"
+
+
