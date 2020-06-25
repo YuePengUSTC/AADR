@@ -1,5 +1,4 @@
 # AADR:Anderson Acceleration for Nonconvex ADMM Based on Douglas-Rachford Splitting
---
 
 This code implements the algorithm in the following paper:
 
